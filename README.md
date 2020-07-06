@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on converting the 
+Ad Network server to Laravel App 
+- 🌱 I’m currently learning flutter
+
+- 📫 How to reach me: olaniyiojeyinka@gmail.com
+
+- 😄 Pronouns: He/Him/Wos
