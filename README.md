@@ -25,3 +25,9 @@ Ad Network server to Laravel App
 
 - 😍 PHP JAVASCRIPT DART CODEIGNITER LARAVEL NODE
 EXPRESSJS FLUTTER REACT.
+
+## My Recent Articles
+
+<a href="https://dev.to/niyiojeyinka/learn-to-use-laravel-guard-by-creating-an-ads-network-2ifp" ><b>Learn to use laravel guard by creating an ads network</b></a><br>
+<a href="https://dev.to/niyiojeyinka/give-your-api-more-security-layer-26of" ><b>Give your API More Security Layer</b></a><br>
+<a href="https://dev.to/niyiojeyinka/the-jude-way-to-recursion-21hh" ><b>The Jude way to recursion</b></a><br>
