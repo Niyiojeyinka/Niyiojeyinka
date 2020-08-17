@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on converting the
-Ad Network server to Laravel App
-<!--- 🌱 I’m currently learning flutter-->
+  Ad Network server to Laravel App
+- 🌱 I’m currently learning GOLANG & SPRINGBOOT
 
 - 📫 How to reach me: olaniyiojeyinka@gmail.com
 
 - 😄 Pronouns: He/Him/Wos
 
-* 😍 PHP JAVASCRIPT DART CODEIGNITER LARAVEL NODE
-  EXPRESSJS REACT REACTNATIVE.
+* 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
+  EXPRESSJS REACTJS VUEJS REACTNATIVE.
 
 ## My Recent Articles
 
