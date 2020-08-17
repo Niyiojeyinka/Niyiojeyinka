@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on converting the
   Ad Network server to Laravel App
-- 🌱 I’m currently learning GOLANG & SPRINGBOOT
+- 🌱 I’m currently learning GOLANG
 
 - 📫 How to reach me: olaniyiojeyinka@gmail.com
 
 - 😄 Pronouns: He/Him/Wos
 
 * 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
-  EXPRESSJS REACTJS VUEJS REACTNATIVE.
+  EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
 
 ## My Recent Articles
 
