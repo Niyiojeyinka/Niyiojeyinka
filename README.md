@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
   EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
 
-* 😍 Am contract development work
+* 😍 I am available contract development work
   (NB : Please only contact me when you are ready,as i may be busy and wouldn't like wasting time sending email to & fro with no result. )
-  Don't know if you should contact me through the Email? You shoul if:
+  Don't know if you should contact me through the Email? You should if:
 
   1. You have a gig/opportunity for me that you are READY & not just ghosting away after long conversation.
   2. You have issue with any of my public repo that you will like me to attend to.
