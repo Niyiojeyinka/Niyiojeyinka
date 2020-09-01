@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 * 😄 Pronouns: He/Him/Wos
 
 - 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
-  EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
+EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
+<!--
 
 * 😍 <i>I am available for contract development work
   (NB : Please only contact me when you are ready,as i may be busy and wouldn't like wasting time sending email to & fro with no result. )
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
      </i>
 
   Thank you for understanding
+  -->
 
 ## My Recent Articles
 
