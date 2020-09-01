@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   Don't know if you should contact me through the Email? You should if:
 
   1. You have a gig/opportunity for me that you are READY & not just ghosting away after long conversation.
-  2. You have issue with any of my public repo that you will like me to attend to.</i>
+  2. You have issue with any of my public repo that you will like me to attend to.
+  3. You okay that am from NIGERIA.
+     </i>
 
   Thank you for understanding
 
