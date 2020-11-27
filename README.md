@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on converting the
   Ad Network server to Laravel App
 - 🌱 I’m currently learning UI/UX
-- ⚡ Interest includes Golang,Python(Django/Flask),NextJS
+- ⚡ Interest includes IOS Development ,Golang,Python(Django/Flask),NextJS
 - 📫 How to reach me: olaniyiojeyinka@gmail.com
 
 * 😄 Pronouns: He/Him
