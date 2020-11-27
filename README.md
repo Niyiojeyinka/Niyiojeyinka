@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on converting the
   Ad Network server to Laravel App
-- 🌱 I’m currently learning GOLANG
-
+- 🌱 I’m currently learning UI/UX
+- ⚡ Interest includes Golang,Python(Django/Flask),NextJS
 - 📫 How to reach me: olaniyiojeyinka@gmail.com
 
-* 😄 Pronouns: He/Him/Wos
+* 😄 Pronouns: He/Him
 
 - 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
 EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
