@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * 😄 Pronouns: He/Him
 
 - 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
-EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
+EXPRESSJS REACTJS REDUX REACTNATIVE.
 <!--
 
 * 😍 <i>I am available for contract development work
