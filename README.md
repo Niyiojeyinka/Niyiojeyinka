@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on converting the
-  Ad Network server to Laravel App
+  Ad Network server to Laravel 8 App
 - 🌱 I’m currently learning UI/UX
-- ⚡ Interest includes IOS Development ,Golang,Python(Django/Flask),NextJS
+- ⚡ Interest includes WorldPress Development
 - 📫 How to reach me: olaniyiojeyinka@gmail.com
 
 * 😄 Pronouns: He/Him
 
 - 😍 PHP JAVASCRIPT CODEIGNITER LARAVEL NODE
-EXPRESSJS REACTJS REDUX VUEJS VUEX REACTNATIVE.
+EXPRESSJS REACTJS REDUX REACTNATIVE DOCKER UBUNTU APACHE2 NGINX.
 <!--
 
 * 😍 <i>I am available for contract development work
