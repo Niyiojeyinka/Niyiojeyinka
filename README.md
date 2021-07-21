@@ -43,7 +43,7 @@ EXPRESSJS REACTJS REDUX REACTNATIVE DOCKER UBUNTU APACHE2 NGINX.
   -->
 
 ## My Recent Articles
-
+<a href="https://dev.to/niyiojeyinka/publish-subscribe-system-using-redis-communicate-between-laravel-and-node-services-152e"><b>Publish/subscribe system using redis;communicate between laravel and node services</b></a><br><br>
 <a href="https://dev.to/niyiojeyinka/learn-to-use-laravel-guard-by-creating-an-ads-network-2ifp" ><b>Learn to use laravel guard by creating an ads network</b></a><br><br>
 <a href="https://dev.to/niyiojeyinka/give-your-api-more-security-layer-26of" ><b>Give your API More Security Layer</b></a><br><br>
 <a href="https://dev.to/niyiojeyinka/the-jude-way-to-recursion-21hh" ><b>The Jude way to recursion</b></a><br>
