@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on converting the
   Ad Network server to Laravel 8 App
-- 🌱 I’m currently learning UI/UX
 - ⚡ Interest includes WorldPress Development
 - 📫 How to reach me: olaniyiojeyinka@gmail.com
 
