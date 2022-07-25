@@ -43,6 +43,11 @@ EXPRESSJS REACTJS REDUX REACTNATIVE DOCKER UBUNTU APACHE2 NGINX.
 
 ## My Recent Articles
 
+
+<a href="https://dev.to/niyiojeyinka/how-are-you-handling-your-money-2kbp"><b>
+How are you handling your money value, An article about precision handling using an arbitrary-precision Decimal type, and also lowest money unit
+</b></a><br><br>
+<a href="https://hashnode.com/post/building-a-synchronous-timer-between-two-client-in-a-websocket-cku9k29xk03durrs11345efk0"><b>Building a synchronous timer between two client in a websocket</b></a><br><br>
 <a href="https://hashnode.com/post/building-a-synchronous-timer-between-two-client-in-a-websocket-cku9k29xk03durrs11345efk0"><b>Building a synchronous timer between two client in a websocket</b></a><br><br>
 <a href="https://dev.to/niyiojeyinka/publish-subscribe-system-using-redis-communicate-between-laravel-and-node-services-152e"><b>Publish/subscribe system using redis;communicate between laravel and node services</b></a><br><br>
 <a href="https://dev.to/niyiojeyinka/learn-to-use-laravel-guard-by-creating-an-ads-network-2ifp" ><b>Learn to use laravel guard by creating an ads network</b></a><br><br>
