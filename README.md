@@ -44,6 +44,10 @@ EXPRESSJS REACTJS REDUX REACTNATIVE DOCKER UBUNTU APACHE2 NGINX.
 ## My Recent Articles
 
 
+<a href="https://dev.to/niyiojeyinka/introduction-to-database-transaction-read-phenomenom-and-isolation-level-using-sequelize-orm-dh1"><b>
+Introduction to Database Transactions, Isolation Levels and Read phenomenom
+</b></a><br><br>
+
 <a href="https://dev.to/niyiojeyinka/how-are-you-handling-your-money-2kbp"><b>
 How are you handling your money value, An article about precision handling using an arbitrary-precision Decimal type, and also lowest money unit
 </b></a><br><br>
